@@ -22,6 +22,8 @@ I specialize in transforming raw data into meaningful insights using Excel, Goog
 ### 1. Sales Performance Dashboard (Excel)
 - Built an interactive dashboard to track revenue, KPIs, and monthly trends.
 - Used Pivot Tables, Power Query, and dynamic charts.
+- Each project demonstrates a different stage of the data analysis workflow: 
+data cleaning, analysis, and visualization.
 - **Outcome:** Identified top-performing products and low-performing months.
 
 ### 2. Data Cleaning & Preparation Project
