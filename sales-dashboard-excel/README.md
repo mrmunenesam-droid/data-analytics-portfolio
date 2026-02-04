@@ -24,7 +24,7 @@ Transactional sales data containing order date, product, quantity, revenue, and 
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard – Excel](screenshots/dashboard_overview.png)
+![Sales Performance Dashboard – Excel](screenshots/dashboard_overview..png)
 
 
 
