@@ -19,7 +19,7 @@ I specialize in transforming raw data into meaningful insights using Excel, Goog
 - Pivot Tables & Charts
 
 ## 📊 Projects
-### 1. [Sales Performance Dashboard (Excel)](sales-dashboard-excel)
+### 1. [Sales Performance Dashboard (Excel)](./sales-dashboard-excel)
 Interactive Excel dashboard built to track revenue, KPIs, and monthly sales trends. Demonstrates data analysis, visualization, and business insight communication.
 - Built an interactive dashboard to track revenue, KPIs, and monthly trends.
 - Used Pivot Tables, Power Query, and dynamic charts.
@@ -27,13 +27,13 @@ Interactive Excel dashboard built to track revenue, KPIs, and monthly sales tren
 data cleaning, analysis, and visualization.
 - **Outcome:** Identified top-performing products and low-performing months.
 
-### 2. [Data Cleaning & Preparation Project](data-cleaning-project)
+### 2. [Data Cleaning & Preparation Project](./data-cleaning-project)
 Raw sales data cleaned and transformed using Excel Power Query. Focused on handling missing values, removing duplicates, standardizing formats, and ensuring data reliability.
 - Cleaned and structured raw transactional data for analysis.
 - Removed duplicates, standardized formats, and validated datasets.
 - **Outcome:** Produced analysis-ready data with improved accuracy.
 
-### 3. [SQL Sales Analysis](sql-sales-analysis)
+### 3. [SQL Sales Analysis](./sql-sales-analysis)
 Sales data analyzed using PostgreSQL to calculate revenue by product and region, identify top customers, and evaluate monthly sales trends using aggregation and date functions.
 - Analyzed sales data using SQL to uncover trends and customer behavior.
 - Used GROUP BY, JOINs, and aggregations.
