@@ -40,5 +40,5 @@ Sales data analyzed using PostgreSQL to calculate revenue by product and region,
 - **Outcome:** Provided insights on regional sales performance.
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/munene-sam-3b57ab193/
+- LinkedIn: https://www.linkedin.com/in/munene-sam
 - Email: mrmunenesam@gmail.com
