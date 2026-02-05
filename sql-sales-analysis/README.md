@@ -23,4 +23,3 @@ The focus of this project is on query structure and analytical reasoning rather 
 ## Outcome
 The analysis provided clear insights into top-performing products, high-revenue regions, and customer contribution to overall sales.
 
-
