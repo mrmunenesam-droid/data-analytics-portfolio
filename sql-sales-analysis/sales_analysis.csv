@@ -1,0 +1,10 @@
+Order_id,Order_date,Customer_name,Product,Quantity,Unit_price,Region
+1002,03/02/2024,Mary Ann,Laptop,1,750,East
+1003,03/02/2024,John Doe,Mouse,3,25,East
+1004,07/02/2024,Susan Lee,Keyboard,2,45,South
+1005,08/02/2024,Mark Kim,Laptop,1,750,West
+1006,10/02/2024,Nancy Drew,Mouse,4,25,North
+1007,11/02/2024,Kevin Hart,Laptop,1,750,East
+1008,12/02/2024,Alice Smith,Keyboard,1,45,North
+1009,13/02/2024,Brian Ouma,Keyboard,1,45,East
+1010,14/02/2024,Peter Mwangi,Laptop,1,750,West
