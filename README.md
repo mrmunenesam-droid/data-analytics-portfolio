@@ -4,14 +4,14 @@
 I am a Data Analyst and Data Visualization Specialist with 3+ years of freelance experience. 
 I specialize in transforming raw data into meaningful insights using Excel, Google Sheets and SQL to support data-driven decision making.
 
-## 🧠 Core Skills
+##  Core Skills
 - Data Cleaning & Preparation  
 - Data Analysis  
 - Data Visualization  
 - Dashboard Design  
 - Reporting & Insights  
 
-## 🛠 Tools
+##  Tools
 - Microsoft Excel (Advanced)
 - Google Sheets
 - SQL
@@ -39,6 +39,6 @@ Sales data analyzed using PostgreSQL to calculate revenue by product and region,
 - Used GROUP BY, JOINs, and aggregations.
 - **Outcome:** Provided insights on regional sales performance.
 
-## 📫 Contact
+##  Contact
 - LinkedIn: https://www.linkedin.com/in/munene-sam
 - Email: mrmunenesam@gmail.com
