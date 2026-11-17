@@ -1,7 +1,7 @@
 # data-analytics-portfolio
 
 ## 👋 About Me
-I am a Data Analyst and Data Visualization Specialist with 3+ years of freelance experience. 
+I am a Data Analyst and Data Visualization Specialist with 5+ years of freelance experience. 
 I specialize in transforming raw data into meaningful insights using Excel, Google Sheets and SQL to support data-driven decision making.
 
 ##  Core Skills
